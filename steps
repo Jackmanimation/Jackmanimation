@@ -1,0 +1,14 @@
+1. set up a virtual environment for the project
+      python -m venv jackmanimation_website_env
+2. set the environment going
+3. install Django 3
+      pip install "django>3,<4"
+4. create a default django project
+      django-admin startproject jackmanimation_site
+5. step into the site directory
+      cd jackmanimation_site
+6. create a database for the site
+      python manage.py migrate
+7. run the server to confirm it is all ok
+      python manage.py runserver
+8. Will the server is running go to http://127.0.0.1:8000 and check it out 
