@@ -27,4 +27,4 @@ jobs:
         pip install -r requirements.txt
     - name: Run Tests
       run: |
-        python jackmanimation_site/manage.py test
+        python jackmanimation_root/manage.py test
