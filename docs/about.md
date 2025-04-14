@@ -1,6 +1,6 @@
 # About
 
-## Introducyion
+## Introduction
 
 ## The People
 
