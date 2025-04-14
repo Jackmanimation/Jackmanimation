@@ -1,5 +1,9 @@
 title: Jackmanimation Gaming Studio
+description: Gaming Studio Portfolio.
 markdown: GFM
-remote_theme: pages-themes/modernist@v0.2.0
+email: denis_jackman@hotmail.com
+show_downloads: false
+google_analytics:
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
