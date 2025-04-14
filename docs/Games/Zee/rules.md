@@ -1,4 +1,4 @@
-# Zee 
+# Zee
 
 - **Name:** ZEE or Mommy, Why Did You Shoot Daddy in the Head? Helping Your Child Understand the Zombie Apocalypse
 - **Author:** Denis Jackman
@@ -18,23 +18,23 @@ The Games master draws a colour counter from the player bag. This player may now
 
 ### 3.1 Move his zombies
 
-(see 6. Move)
+([see 6. Move](#6-move))
 
 ### 3.2 Uncover survivors
 
-This is done by running over a survivor counter or checking relevant terrains items (Cars, Buildings, Trees, Litter boxes, post boxes, phones boxes, sheds etc.) (See 8. Survivors)
+This is done by running over a survivor counter or checking relevant terrains items (Cars, Buildings, Trees, Litter boxes, post boxes, phones boxes, sheds etc.) ([See 8. Survivors](#8-survivors)).
 
 ### 3.3 Gain Entry
 
-Zombies Can attempt to gain entry to buildings  (See 4. Buildings)
+Zombies Can attempt to gain entry to buildings  ([See 4. Buildings](#4-buildings))
 
 ### 3.4 Eat
 
-Zombies can eat survivors (see 5. Combat)
+Zombies can eat survivors ([see 5. Combat](#5-combat))
 
 ### 3.5 Influence
 
-Zombies can infuence other Zombies to join his/her pack (see 7. Pack Attack)
+Zombies can infuence other Zombies to join his/her pack ([see 7. Pack Attack](#7-pack-attack))
 
 A player may move and attack in any sequence they like.
 Once each player has had a turn the games master will move the survivors add new survivor counters and check to see if any player has gained victory by getting to twelve (12) or more zombies.
@@ -45,7 +45,7 @@ To gain entry to a building a pack must force a door. To force a door the pack m
 
 ## 5 Combat
 
-Once the player has uncovered survivors they may attack them. Attacking the survivors has a number of actions associated with it. Some survivors get to act first (Rioters, Soldiers, Special Forces). Some survivors attempt to confuse the Zombies (Police, Riot Police, Scientists, TV Crew). Check the survivor’s section (see 8. Survivors) for details.
+Once the player has uncovered survivors they may attack them. Attacking the survivors has a number of actions associated with it. Some survivors get to act first (Rioters, Soldiers, Special Forces). Some survivors attempt to confuse the Zombies (Police, Riot Police, Scientists, TV Crew). Check the survivor’s section ([see 8. Survivors](#8-survivors)) for details.
 
 The player when he gets to attack may roll a dice for each zombie in his pack. On a result of five (5) or six (6) the attack is successful and the survivor may save if they have a save.
 
@@ -53,7 +53,7 @@ For each survivor who may save the Games Masters rolls one dice and on a five (5
 
 ## 6 Move
 
-Zombies may move six (6) inches in a turn. They ignore terrain difficulties but must stop when they get to an item they can investigate (Cars, Buildings, Trees, Litter boxes, post boxes, phones boxes, sheds etc.).  To enter a building the pack must force a door (see 4. Buildings). Otherwise the Games Master draws a (1) Survivor counter for the item. If the Pack forces entry into a building the Games Master draws two (2) Survivor Counters for the buildings. All zombies in a pack must stay together – splitting a pack will cause a player to lose control over a section of the pack.
+Zombies may move six (6) inches in a turn. They ignore terrain difficulties but must stop when they get to an item they can investigate (Cars, Buildings, Trees, Litter boxes, post boxes, phones boxes, sheds etc.).  To enter a building the pack must force a door ([see 4. Buildings](#4-buildings)). Otherwise the Games Master draws a (1) Survivor counter for the item. If the Pack forces entry into a building the Games Master draws two (2) Survivor Counters for the buildings. All zombies in a pack must stay together – splitting a pack will cause a player to lose control over a section of the pack.
 
 ## 7 Pack Attack
 
