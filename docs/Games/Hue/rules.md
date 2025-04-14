@@ -35,7 +35,7 @@ Once this is done the player may
 - Draw a card
 A player may only have one card in their hand at a time.
 
-```
+```text
 If the NPC token is drawn, then the last player who moved may use the NPC units.
 The NPC units may:
 ```
@@ -45,7 +45,7 @@ The NPC units may:
 - Act
 These can be in any order.
 
-```
+```text
 Once all the squad tokens have been drawn. We check for victory conditions. If
 these are met, then the game is over. If not we reset the tokens and go again.
 ```
@@ -53,3 +53,4 @@ these are met, then the game is over. If not we reset the tokens and go again.
 ## Links
 
 - [Battle of Hue](https://en.wikipedia.org/wiki/Battle_of_Hu%E1%BA%BF)
+- [Hue City](https://warfarehistorynetwork.com/article/the-battle-of-hue-city-in-the-thick-of-the-tet-offensive/)
