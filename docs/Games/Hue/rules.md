@@ -97,7 +97,7 @@ Remaining hits = casualties.
 | Weapon  | Range | Dice | Notes |
 |---------|-------|------|-------|
 | M16 Rifle | 12" | 1 | Standard issue; balanced range and damage |
-| M79 Grenade Launcher | 10" (indirect) | 2 | Arcs over cover; area effect; limited to 2 shots per game |
+| M79 Grenade Launcher | 10" (indirect) | 2 | Arcs over cover; area effect; limited to 2 shots per game,  anti-fortification effect |
 | M60 Machine Gun | 16"| 3 | Fires twice per Shoot action; must stay stationary |
 | .45 Pistol | 6" | 1 | Short range; used by squad leaders or in emergencies |
 | Shotgun | 6" (cone) | 2 | Ignores cover bonus at close range; great for clearing rooms |
@@ -173,7 +173,7 @@ Enemy units may not move into a space occupied by an enemy unit unless they are 
 | Sniper Team | 2 | 16" | Scoped SKS or Mosin-Nagant | Targets isolated figures; remains hidden until it fires.|
 | RPG Team | 2 | 10" 1 | RPG-2 + 1 AK-47 | Area effect (4"); one RPG shot per game.|
 | Heavy MG Nest | 3 | 14" | DShK Heavy MG | Fixed position; cannot move; high threat at range.|
-| Sapper Team | 4 | 6" | SMGs + Explosives | Specialises in breaching and close assault; can destroy objectives.|
+| Sapper Team | 4 | 6" | SMGs + Explosives | Specialises in breaching and close assault|
 
 #### 2.4.1 Enemy Weapons
 
@@ -182,10 +182,10 @@ Enemy units may not move into a space occupied by an enemy unit unless they are 
 | AK-47 | 12" | 1 | Standard enemy rifle.|
 | RPD LMG | 14" | 2 | Cannot move and shoot in the same turn.|
 | Scoped Rifle | 16" | 1 | Always targets individual models. Ignores 1 point of cover.|
-| RPG-2 | 10" | 3 | Area effect (4" radius); one shot per game. Ignores cover.|
+| RPG-2 | 10" | 3 | Area effect (4" radius); one shot per game. Ignores cover. anti-fortification effect|
 | DShK Heavy MG | 14" | 3 per crew (max 3) | Fixed. Must be set up. Ignores light cover.|
 | SMG | 6" | 1 | No penalty when firing after running.|
-| Explosives | 6" | Special | Used for objectives or destroying cover. Treat as automatic success unless interrupted.|
+| Explosives | 6" | Special |  anti-fortification effect, Used for objectives or destroying cover. Treat as automatic success unless interrupted.|
 
 ##### 2.4.2 Enemy Weapon Notes
 
@@ -197,40 +197,115 @@ Enemy units may not move into a space occupied by an enemy unit unless they are 
 
 | Weapon | Range | Dice | Special Rules |
 |----------------|-------|------|------------------|
-| Mortar Team | 20" (indirect) | 2 | May fire over terrain. Targets a 3" radius. Models in area roll 1 die each (4+ = removed). Cannot move and shoot.|
+| Mortar Team | 20" (indirect) | 2 | May fire over terrain. Targets a 3" radius. Models in area roll 1 die each (4+ = removed). Cannot move and shoot. anti-fortification effect|
 | Flamethrower Unit | 6" (cone) | 3 | Ignores all cover. 3" cone area effect. Single-use per scenario.|
 | Tripwire Trap | 0" | Special | Triggered when a squad enters a marked zone. Roll 3 dice (4+ = 1 casualty). Removed after triggering.|
 | Booby-Trapped Structure | — | Special | If a squad performs an Act inside a marked structure, roll 1d6. On 5+, detonation. Roll 3 dice, hits ignore cover.|
-| Recoilless Rifle Team | 18" | 4 | High impact weapon. Ignores cover. One shot per game. May target squads, structures, or vehicles.|
+| Recoilless Rifle Team | 18" | 4 | High impact weapon. Ignores cover. One shot per game. May target squads, structures, or vehicles. anti-fortification effect|
 | Tunnel Ambush Team | Contact | 2 | Appears adjacent to an objective or squad. Attacks immediately. May disappear at the end of the next turn if not engaged.|
 
-## 3 Links
+### 2.5 Vehicles
+
+#### 2.5.1 US Vehicles Table
+
+| Vehicle | Type | Movement | Weapons | Notes |
+|--------|------|----------|---------|-------|
+| M113 APC | Land, Transport | 6" | 1x M2 .50cal MG (3 dice, 14") | Can carry up to 6 infantry. May fire and move. Light armour. |
+| M48 Patton Tank | Land, Combat | 5" | 90mm Cannon (4 dice, 18") + 2 MGs | Heavy support. Ignores cover. Limited manoeuvrability in tight spaces. |
+| M274 “Mule” | Land, Transport | 6" | None (can be fitted with MG) | Can carry supplies or 1 squad. Unarmoured. Good for support scenarios. |
+| UH-1 “Huey” Slick | Air, Transport | 12" Door-mounted M60s (3 dice per side) | Can carry 1 squad. Can hover, extract, or insert troops. Vulnerable to RPGs. |
+| UH-1 “Huey” Gunship | Air, Combat | 12" | Rockets (area effect) + M60s (3 dice per side) | Provides fire support. Cannot transport troops. One rocket strike per game. |
+| CH-46 Sea Knight | Air, Transport | 10" | 2x Side M60s (3 dice each, 12") | Can carry 2 squads. Large landing footprint. Needs LZ. |
+| Ontos (M50) | Land, Combat | 5" | 6x 106mm Recoilless Rifles (each 3 dice, 18") | Devastating firepower. Can fire all rifles at once. Thinly armoured. |
+| M151 “Mutt” Jeep | Land, Recon | 8" | Optional M60 MG (2 dice, 12") | Fast but fragile. Can scout, deliver messages, or act as command vehicle. |
+| LVTP-5 | Land, Amphibious Transport | 5" | M2 .50cal MG (3 dice) | Very large. Can carry 2 squads. Rare in urban missions. Good for open-ground support. |
+
+#### 2.5.2 NVA & VC Vehicles Table
+
+| Vehicle | Type | Movement | Weapons | Notes |
+|---------|------|----------|---------|-------|
+| PT-76 Light Tank | Land, Combat | 6" | 76mm Cannon (3 dice, 16") + Coax MG | Light amphibious tank. Vulnerable to LAW or M48s. |
+| T-54 Tank | Land, Combat | 5" | 100mm Cannon (4 dice, 18") + 2 MGs | Heavy support unit. Rare in urban setting but used in Hue. Ignores cover. |
+| ZSU-57-2 | Land, Anti-Air / Fire Support | 5" | 2x 57mm Autocannons (4 dice, 16") | Originally AA gun; used in Hue as direct-fire support. Devastating to infantry. |
+| BTR-50 APC | Land, Transport | 6" | 1x 7.62mm MG (2 dice, 12") | Armoured personnel carrier. May carry 6 models. Light armour. |
+| Requisitioned Truck | Land, Transport | 6" | None (or 1x MG if upgraded) | Can carry 1 squad. Vulnerable to all fire. VC may use for rapid movement.|
+| Recoilless Rifle Cart | Land, Static/Firing | 0" | 1x 75mm Recoilless Rifle (3 dice, 18") | Pulled or emplaced weapon. Fixed fire lane. Often dug-in. |
+| Motorbike + Rider(s) | Land, Scout | 8" | Pistols or SMGs (1 die per rider) | VC fast scouts or messengers. Poor combat value. |
+| Technical Pickup | Land, Improvised Combat | 7" | 1x DShK MG (3 dice, 14") | Civilian truck with heavy MG. Fragile but dangerous. |
+
+#### 2.5.3 Vehicle Movement Notes
+
+- Land: Use road bonuses if terrain allows (+2").
+- Air: Ignore terrain; must land to load/unload troops. Use templates for hover zones.
+- Movement measured in inches per turn.
+- NVA vehicles are armoured; VC vehicles are generally light or unarmoured.
+- Recoilless rifle carts and static guns do not move during play unless scenario allows repositioning.
+
+#### 2.5.4 Vehicle Weapon Notes
+
+- Use standard 4+ to hit, cover reduces hits.
+- Vehicle weapons follow same dice system for simplicity.
+- Area effect weapons (rockets, cannon) use 3"–4" radius templates and affect all models under them.
+- Recoilless and tank cannons ignore cover, and are anti fortification.
+- Technicals and ZSU can be used for ambush or fire suppression roles in tight urban zones.
+
+## 3 Full Weapons Table
+
+| Weapon | Range | Dice | Special Rules |
+|----------------|-------|------|------------------|
+| M16 Rifle | 12" | 1 | Standard US rifle. |
+| M60 MG | 14" | 3 | Cannot move and shoot. Fires twice per Shoot action if stationary.|
+| .45 Pistol | 6" | 1 | Short range; carried by squad leaders.|
+| Shotgun | 6" (cone) | 2 | Ignores cover at close range.|
+| M79 Grenade Launcher | 10" | 2 | Indirect fire. Area effect (4" radius). Limited ammo.anti-fortification effect|
+| LAW | 10" | 4 | One use only. Ignores cover. Anti-structure. anti-fortification effect|
+| Frag Grenade | 4" radius | 2 | Area effect. 1 per model.|
+| AK-47 | 12" | 1 | Standard NVA/VC rifle.|
+| RPD LMG | 14" | 2 | Cannot move and shoot. Used by NVA squads.|
+| Scoped Rifle | 16" | 1 | Sniper weapon. Ignores 1 point of cover. Targets individuals.|
+| RPG-2 | 10" | 3 | One use. Area effect (4" radius). Ignores cover. anti-fortification effect|
+| DShK Heavy MG | 14" | 3 | High rate of fire. Ignores light cover. Mounted on vehicles or nests.|
+| SMG | 6" | 1 | No penalty for firing after movement. Close-range use.|
+| Explosives | 6" | — | Used to destroy objectives or breach. Auto-success unless interrupted. anti-fortification effect|
+| 60mm Mortar | 20" | 2 | Indirect fire. 3" area. Affects all under template (4+ = casualty). Cannot move and shoot.anti-fortification effect|
+| Flamethrower | 6" (cone) | 3 | Ignores all cover. Area effect. Single-use per scenario.|
+| Recoilless Rifle (75mm) | 18" | 3 | Ignores cover. Mounted or emplaced. anti-fortification effect|
+| 90mm Tank Cannon | 18" | 4 | Ignores cover. Area effect. Used by M48 Patton. anti-fortification effect|
+| 100mm Tank Cannon | 18" | 4 | Ignores cover. Powerful tank weapon (e.g. T-54). anti-fortification effect|
+| 76mm Cannon | 16" | 3 | Lighter tank cannon (e.g. PT-76). anti-fortification effect|
+| 57mm Autocannon (ZSU) | 16" | 4 | Twin guns. Area suppression. May ignore 1 cover point.|
+| Vehicle-mounted M2 .50cal MG | 14" | 3 | Used on APCs, jeeps. Ignores light cover.|
+| Vehicle-mounted M60s | 12" | 2 | Side-mounted MGs. Often 1 per side on helicopters.|
+| SMG (Motorbike Rider) | 6" | 1 | May fire while moving. Low accuracy.|
+| None (Unarmed) | — | — | No offensive capability. Used on logistical or civilian units.|
+
+## 4 Links
 
 - [Battle of Hue](https://en.wikipedia.org/wiki/Battle_of_Hu%E1%BA%BF)
 - [Hue City](https://warfarehistorynetwork.com/article/the-battle-of-hue-city-in-the-thick-of-the-tet-offensive/)
 
-## 4 Change List
+## 5 Change List
 
 | Author | Version | Date | Reason |
 |--------|---------|------|--------|
 | Denis Jackman | 0.00.00 | 20250414 | Original Version |
 | Denis Jackman | 1.00.00 draft | 20250414 | Updated for Markdown |
 
-## 5 Licence
+## 6 Licence
  
 This game has been developed under the Creative Commons Licence this means that :
 
-### 5.1 You are free
+### 6.1 You are free
 
 - **To Share** to copy, distribute and transmit the work
 - **To Remix** to adapt the work
 
-### 5.2 Under the following conditions
+### 6.2 Under the following conditions
 
 - **Attribution** You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
 - **Non-commercial** You may not use this work for commercial purposes.
 
-### 5.3 With the understanding that
+### 6.3 With the understanding that
 
 - **Waiver** Any of the above conditions can be [waived](http://creativecommons.org/licenses/by-nc/3.0/) if you get permission from the copyright holder.
 - **Public Domain** Where the work or any of its elements is in the [public domain](http://wiki.creativecommons.org/Public_domain) under applicable law that status is in no way affected by the license.
@@ -242,7 +317,7 @@ This game has been developed under the Creative Commons Licence this means that 
 
 - **Notice** For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page.
 
-## 6 Acknowledgements
+## 7 Acknowledgements
 
 with thanks to the following people for their help in developing this game:
 
