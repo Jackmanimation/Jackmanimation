@@ -2,7 +2,7 @@
 
 - **Name:**  Battle of Huế
 - **Author:** Denis Jackman
-- **Version:** 1.00.00 Draft 20250414
+- **Version:** 1.00.01 Draft 20250415
 
 ## 1 Introduction
 
@@ -290,6 +290,7 @@ Enemy units may not move into a space occupied by an enemy unit unless they are 
 |--------|---------|------|--------|
 | Denis Jackman | 0.00.00 | 20250414 | Original Version |
 | Denis Jackman | 1.00.00 draft | 20250414 | Updated for Markdown |
+| Denis Jackman | 1.00.01 draft | 20250413 | Vehicles and Weapons  added |
 
 ## 6 Licence
  
