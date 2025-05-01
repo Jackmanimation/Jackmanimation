@@ -2,7 +2,7 @@
 
 - **Name:**  Battle of Huế
 - **Author:** Denis Jackman
-- **Version:** 1.00.01 Draft 20250501
+- **Version:** 1.01.00 Draft 20250501
 
 ## 1 Introduction
 
@@ -279,7 +279,9 @@ Enemy units may not move into a space occupied by an enemy unit unless they are 
 | SMG (Motorbike Rider) | 6" | 1 | May fire while moving. Low accuracy.|
 | None (Unarmed) | — | — | No offensive capability. Used on logistical or civilian units.|
 
-## 4 Links
+## 4 References
+
+### 4.1 Links
 
 - [Battle of Hue](https://en.wikipedia.org/wiki/Battle_of_Hu%E1%BA%BF)
 - [Hue City](https://warfarehistorynetwork.com/article/the-battle-of-hue-city-in-the-thick-of-the-tet-offensive/)
@@ -291,6 +293,7 @@ Enemy units may not move into a space occupied by an enemy unit unless they are 
 | Denis Jackman | 0.00.00 | 20250414 | Original Version |
 | Denis Jackman | 1.00.00 draft | 20250414 | Updated for Markdown |
 | Denis Jackman | 1.00.01 draft | 20250413 | Vehicles and Weapons  added |
+! Denis Jackman | 1.01.00 draft | 20250501 | Added cards to the card list  |
 
 ## 6 Licence
  
