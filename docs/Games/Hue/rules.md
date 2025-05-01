@@ -143,14 +143,14 @@ Act actions do not provoke enemy fire, unless stated otherwise in the scenario.
 
 - Each player may hold 1 card at a time.
 - After taking a turn (Move / Shoot / Act), the player may:
--- Play their card (if they have one), or
--- Draw a new card (if their hand is empty).
+  - Play their card (if they have one), or
+  - Draw a new card (if their hand is empty).
 
 Cards are played at any time during the player’s turn (unless otherwise stated).
 
 ##### 2.3.4.1 Card Effects
 
-###### US Cards
+###### 2.3.4.1.1 US Cards
 
 | **Card Name** | **Effect** |
 |----------------|------------------|
@@ -175,7 +175,7 @@ Cards are played at any time during the player’s turn (unless otherwise stated
 | **Radio Intercept**   | Cancel one enemy card play. Discard it. |
 | **Boomerang**         | Return a used card from your discard pile to your hand instead of drawing this turn. |
 
-###### VC Cards
+###### 2.3.4.1.2 VC Cards
 
 | **Card Name**           | **Effect** |
 |-------------------------|------------|
@@ -340,10 +340,10 @@ Enemy units may not move into a space occupied by an enemy unit unless they are 
 | Denis Jackman | 0.00.00 | 20250414 | Original Version |
 | Denis Jackman | 1.00.00 draft | 20250414 | Updated for Markdown |
 | Denis Jackman | 1.00.01 draft | 20250413 | Vehicles and Weapons  added |
-! Denis Jackman | 1.01.00 draft | 20250501 | Added cards to the card list  |
+| Denis Jackman | 1.01.00 draft | 20250501 | Added cards to the card list  |
 
 ## 6 Licence
- 
+
 This game has been developed under the Creative Commons Licence this means that :
 
 ### 6.1 You are free
