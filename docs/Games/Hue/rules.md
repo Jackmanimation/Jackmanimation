@@ -2,7 +2,7 @@
 
 - **Name:**  Battle of Huế
 - **Author:** Denis Jackman
-- **Version:** 1.00.01 Draft 20250415
+- **Version:** 1.00.01 Draft 20250501
 
 ## 1 Introduction
 
