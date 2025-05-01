@@ -28,6 +28,10 @@ These may include:
 - **Recon and Report** – Move to point on the map and return from it to report on the contents.
 - **Defend the Embassy** -   The squads try and defend the embassy from enemy forces. this needs to be done for a number of rounds while the staff destroy files and exfiltrate staff.
 - **Defend the CIA compound** – The squad try and defend the CIA compound from enemy forces – this needs to be done for a number of rounds while the CIA destroy files and exfiltrate staff.
+- **Stop the convoy** – The squad try and stop a enemy convoy from getting to a designated point on the map.
+- **Rescue the convoy** – The squad try and rescue a convoy from being ambushed by enemy forces.
+- **Rescue the downed pilot** – The squad try and rescue a downed pilot from being captured by enemy forces.
+- **Destroy the supply dump** – The squad try and destroy a supply dump before it can be used by the enemy forces.
 
 ### 2.3 Game loop
 
@@ -127,6 +131,7 @@ Certain missions may add unique actions to the Act phase. These will be listed i
 - **Rescue POW** – Use Act to untie or stabilise the POW. Then escort to safety.
 - **Destroy Documents** – Use Act at the designated room to simulate file destruction.
 - **Radio HQ** – Use Act at an objective point to transmit mission data.
+- **Destroy Supply Dump** – Use Act to set the explosives and detonate them.
 
 ##### 2.3.3.3 Scenario Notes
 
@@ -145,17 +150,47 @@ Cards are played at any time during the player’s turn (unless otherwise stated
 
 ##### 2.3.4.1 Card Effects
 
-| Card Name | Effect |
+###### US Cards
+
+| **Card Name** | **Effect** |
 |----------------|------------------|
-| Covering Fire | Suppress enemy squad during your move – they may not shoot at you this turn.|
-| Grenade Toss | Instantly throw a frag grenade without using the Act action (2 dice attack, 4" radius).|
-| Adrenaline Rush | Move + Shoot this turn even if you ran. No penalty.|
-| Free Action | Take a bonus Act action this turn.|
-| Flare Up | Reveal enemy squad in hiding or behind cover within 12".|
-| Combat Medic | Use a Medic action even if you moved or shot.|
-| Ammo Resupply | Restore one grenade or LAW (player choice). Must be at a resupply point.|
-| Clear the Room | Automatically remove 1 enemy model when entering a building. (Only usable once per game.)|
-| Radio Support | Call in a one-use artillery strike (10" radius; enemy rolls 1 die per model, 4+ = removed).|
+| **Covering Fire** | Suppress enemy squad during your move – they may not shoot at you this turn.|
+| **Grenade Toss** | Instantly throw a frag grenade without using the Act action (2 dice attack, 4" radius).|
+| **Adrenaline Rush** | Move + Shoot this turn even if you ran. No penalty.|
+| **Free Action** | Take a bonus Act action this turn.|
+| **Flare Up** | Reveal enemy squad in hiding or behind cover within 12".|
+| **Combat Medic** | Use a Medic action even if you moved or shot.|
+| **Ammo Resupply** | Restore one grenade or LAW (player choice). Must be at a resupply point.|
+| **Clear the Room** | Automatically remove 1 enemy model when entering a building. (Only usable once per game.)|
+| **Radio Support** | Call in a one-use artillery strike (10" radius; enemy rolls 1 die per model, 4+ = removed).|
+| **Smoke Out**         | Place a 4" smoke template anywhere within 10". Blocks line of sight until end of next round. |
+| **Backup Arrives**    | Reinforce 1 model lost earlier this game to your squad. They return at your starting point. |
+| **Door Kick**         | Instantly breach and enter a building this turn. Ignore Act cost for door entry. |
+| **Steady Aim**        | +1 to all Shoot rolls this turn. Can be played even if you moved. |
+| **Hard Cover**        | Ignore 1 extra hit from cover this turn (Light = 2 hits, Heavy = 3). |
+| **Quick Draw**        | Interrupt an enemy action within 12" to take a free shot (1 weapon die only). |
+| **Stack Up**          | Move your entire squad through one door or chokepoint with no movement penalty. |
+| **Lucky Find**        | Gain 1 grenade or LAW (your choice). May be played at any time. |
+| **Patch Job**         | Remove 1 casualty token from your squad (not a full revive—just morale stabiliser; prevents next morale loss if implemented). |
+| **Radio Intercept**   | Cancel one enemy card play. Discard it. |
+| **Boomerang**         | Return a used card from your discard pile to your hand instead of drawing this turn. |
+
+###### VC Cards
+
+| **Card Name**           | **Effect** |
+|-------------------------|------------|
+| **Tunnel Movement**     | Move one hidden enemy unit up to 6" and reveal it adjacent to a US squad. |
+| **Booby Trap**          | Trigger a hidden explosive device. Choose a squad within 4" of a building. Roll 3 dice (4+ = casualty). |
+| **Sniper Shot**         | A sniper attacks immediately from a hidden position (16", 1 die, ignores 1 cover). May target a squad leader. |
+| **Civilians in the Open** | Distracts US squad. One squad within 6" must skip their next Shoot or Act action. |
+| **Ambush Fire**         | An enemy squad fires at the end of the US player’s turn (1 weapon only). |
+| **False Surrender**     | When a US squad performs an Act on a captured or wounded enemy, reveal the trap: the unit attacks with 2 dice. |
+| **Fog of War**          | US squad must reroll all successful hits this turn. |
+| **Decoy Position**      | Swap the position of any two hidden enemy units or tokens. |
+| **Close Assault**       | One enemy unit may move and attack in the same turn, ignoring usual penalties for running. |
+| **Reinforcements**      | Add 1 new model to any active enemy squad. Place adjacent to cover or concealment. |
+| **Hold the Line**       | One enemy unit ignores all casualties from this turn (once per game). |
+| **Rally the Cell**      | Return one previously eliminated Local VC Cell to the map in a hidden position. |
 
 ##### 2.3.4.2 Deck Size
 
@@ -285,6 +320,18 @@ Enemy units may not move into a space occupied by an enemy unit unless they are 
 
 - [Battle of Hue](https://en.wikipedia.org/wiki/Battle_of_Hu%E1%BA%BF)
 - [Hue City](https://warfarehistorynetwork.com/article/the-battle-of-hue-city-in-the-thick-of-the-tet-offensive/)
+- [Battle for Hue City](https://warfarehistorynetwork.com/article/the-battle-of-hue-city-in-the-thick-of-the-tet-offensive/)
+- [Urban Warfare study](https://mwi.westpoint.edu/urban-warfare-project-case-study-3-battle-of-hue/)
+
+### 4.2 Books
+
+- [Hue 1968: A Turning Point of the American War in Vietnam by Mark Bowden](https://www.amazon.co.uk/dp/0802127002)
+- [The Battle of Hue 1968: Fight for the Imperial City by James H. Willbanks](https://ospreypublishing.com/uk/battle-of-hue-1968-9781472844712/)
+- [Marines in Hue City: A Portrait of Urban Combat, Tet 1968 by Eric Hammel](https://www.amazon.co.uk/Marines-Hue-City-Portrait-Combat/dp/0760325212)
+
+### 4.3 Other Media
+
+- [NPR Interview with Mark Bowden on 'Hue 1968'](https://www.npr.org/2017/06/12/532242775/hue-1968-revisits-an-american-turning-point-in-the-war-in-vietnam)
 
 ## 5 Change List
 
