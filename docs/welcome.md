@@ -1,10 +1,12 @@
-# 🎲 Welcome to Jackmanimation Gaming Studio  
+# Welcome
 
-**Where Imagination Meets the Tabletop**
+## Jackmanimation Gaming Studio
+
+### Where Imagination Meets the Tabletop
 
 At **Jackmanimation**, we craft bold, vibrant, and endlessly replayable tabletop experiences.  
 Whether you're diving into chaotic card battles, tactical skirmishes, or lighthearted party games, our mission is simple:  
-**Make game nights unforgettable.**
+**Make games unforgettable.**
 
 ---
 
@@ -25,17 +27,17 @@ A fast-paced, button-mashing card game of rhythm and chaos.
 
 ---
 
-## Version Info
-
-- **Version:** 2.0.0  
-- **Last Updated:** 2025-05-21  
-- **Created by:** Denis Jackman 
-
----
-
 ## 🎉 Join the Fun
 
 Follow our journey, play our games, and help shape the future of tabletop fun.  
 Stay connected for news, playtests, and player highlights!
+
+---
+
+## Version Info
+
+- **Version:** 2.0.0  
+- **Last Updated:** 2025-05-21  
+- **Created by:** Denis Jackman
 
 ---
