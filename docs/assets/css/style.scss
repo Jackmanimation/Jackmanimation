@@ -2,3 +2,95 @@
 ---
 
 @import "{{ site.theme }}";
+
+/* Jackmanimation Gaming Studio Colour Palette and Base Styles */
+
+:root {
+    /* Primary Colours */
+    --color-teal: #008080;
+    /* Creativity and Brand Identity */
+    --color-orange: #FF8C00;
+    /* Playfulness and Energy */
+
+    /* Accent Colours */
+    --color-crimson: #DC143C;
+    /* Action and Combat Vibe */
+    --color-olive: #808000;
+    /* Tactical / Military Tone */
+
+    /* Neutrals */
+    --color-charcoal: #2E2E2E;
+    /* Background */
+    --color-soft-white: #FAFAFA;
+    /* Text and Highlights */
+}
+
+/* Basic Reset */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: var(--color-charcoal);
+    color: var(--color-soft-white);
+}
+
+/* Headers */
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: var(--color-teal);
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+}
+
+/* Links */
+a {
+    color: var(--color-orange);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--color-crimson);
+    text-decoration: underline;
+}
+
+/* Buttons */
+.button {
+    background-color: var(--color-teal);
+    color: var(--color-soft-white);
+    padding: 0.75rem 1.25rem;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: var(--color-orange);
+}
+
+/* Accent Sections */
+.section--combat {
+    background-color: var(--color-crimson);
+    color: var(--color-soft-white);
+    padding: 1rem;
+}
+
+.section--tactical {
+    background-color: var(--color-olive);
+    color: var(--color-soft-white);
+    padding: 1rem;
+}
+
+/* Cards & Panels */
+.card {
+    background-color: #3a3a3a;
+    border-left: 4px solid var(--color-teal);
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 4px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
