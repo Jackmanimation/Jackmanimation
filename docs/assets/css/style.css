@@ -1,6 +1,6 @@
 
 /* Jackmanimation Gaming Studio Colour Palette and Base Styles */
-
+@import "{{ site.theme }}";
 :root {
   /* Primary Colours */
   --color-teal: #008080;        /* Creativity and Brand Identity */
