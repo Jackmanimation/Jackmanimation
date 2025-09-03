@@ -155,27 +155,27 @@ Cards are played at any time during the player’s turn (unless otherwise stated
 | 1       | **Covering Fire**     | Suppress enemy squad during your move – they may not shoot at you this turn.                                                  |
 | 2       | **Grenade Toss**      | Instantly throw a frag grenade without using the Act action (2 dice attack, 4" radius).                                       |
 | 3       | **Adrenaline Rush**   | Move + Shoot this turn even if you ran. No penalty.                                                                           |
-| 4       | **Free Action**       | Take a bonus Act action this turn.                                                                                            |
+| 4       | **Free Action**       | Take a bonus action this turn. This can be move, shoot or act.                                                                |
 | 5       | **Flare Up**          | Reveal enemy squad in hiding or behind cover within 12".                                                                      |
 | 6       | **Combat Medic**      | Use a Medic action even if you moved or shot.                                                                                 |
-| 7       | **Ammo Resupply**     | Restore one grenade or LAW (player choice). Must be at a resupply point.                                                      |
-| 8       | **Clear the Room**    | Automatically remove 1 enemy model when entering a building. (Only usable once per game.)                                     |
-| 9       | **Radio Support**     | Call in a one-use artillery strike (10" radius; enemy rolls 1 die per model, 4+ = removed).                                   |
+| 7       | **Ammo Resupply**     | Restore one grenade or LAW (player choice).                                                                                   |
+| 8       | **Clear the Room**    | Automatically remove 1 enemy model when entering a building.                                                                  |
+| 9       | **Radio Support**     | Call in a one-use artillery strike (10" radius; enemy rolls 1 die per model, 4+ = removed, ignore cover).                     |
 | 10      | **Smoke Out**         | Place a 4" smoke template anywhere within 10". Blocks line of sight until end of next round.                                  |
-| 11      | **Backup Arrives**    | Reinforce 1 model lost earlier this game to your squad. They return at your starting point.                                   |
+| 11      | **Backup Arrives**    | Reinforce squad with one 1 model.                                                                                             |
 | 12      | **Door Kick**         | Instantly breach and enter a building this turn. Ignore Act cost for door entry.                                              |
 | 13      | **Steady Aim**        | +1 to all Shoot rolls this turn. Can be played even if you moved.                                                             |
-| 14      | **Hard Cover**        | Ignore 1 extra hit from cover this turn (Light = 2 hits, Heavy = 3).                                                          |
-| 15      | **Quick Draw**        | Interrupt an enemy action within 12" to take a free shot (1 weapon die only).                                                 |
+| 14      | **Hard Cover**        | the squad is -2 to be hit as if from hard cover this turn.                                                                    |
+| 15      | **Quick Draw**        | Interrupt an enemy action within 12" to take a free shot (1 weapon die per model only).                                       |
 | 16      | **Stack Up**          | Move your entire squad through one door or chokepoint with no movement penalty.                                               |
 | 17      | **Lucky Find**        | Gain 1 grenade or LAW (your choice). May be played at any time.                                                               |
-| 18      | **Patch Job**         | Remove 1 casualty token from your squad (not a full revive—just morale stabiliser; prevents next morale loss if implemented). |
-| 19      | **Radio Intercept**   | Cancel one enemy card play. Discard it.                                                                                       |
-| 20      | **Boomerang**         | Return a used card from your discard pile to your hand instead of drawing this turn.                                          |
-| 21      | **Capture the Flag**  | Take an objective token from the enemy. They lose it.                                                                         |
-| 22      | **Kill the Commisar** | Take out the enemy squad leader. They lose 1 die from their next attack.                                                      |
-| 23      | **Blue on Blue**      | You may choose an US squad to target and resolve fire on.                                                                     |
-| 24      | **Reinforcements**    | Add 1 new model to your squad. Place adjacent to the squad                                      .                             |
+| 18      | **Patch Job**         | Prevent one casualty in your squad                                                                                            |
+| 19      | **Radio Intercept**   | Cancel one enemy card as it being played. Discard it.                                                                         |
+| 20      | **Boomerang**         | Return a used card from the discard pile to your hand instead of drawing this turn.                                           |
+| 21      | **Capture the Flag**  | Take an objective from another squad. They lose it.                                                                           |
+| 22      | **Kill the Commisar** | Take out one enemy squad member.                                                                                              |
+| 23      | **Blue on Blue**      | You may choose an US squad to target and resolve fire on. As if it is an enemy squad.                                         |
+| 24      | **Reinforcements**    | Add 1 new model to your squad. Place adjacent to the squad.                                                                   |
 
 ###### 2.3.4.1.2 VC Cards
 
@@ -183,16 +183,16 @@ Cards are played at any time during the player’s turn (unless otherwise stated
 |---------|-------------------------|----------------------------------------------------------------------------------------------------------------|
 | 1       | **Tunnel Movement**     | Move one hidden enemy unit up to 6" and reveal it adjacent to a US squad.                                      |
 | 2       | **Booby Trap**          | Trigger a hidden explosive device. Choose a squad within 4" of a building. Roll 3 dice (4+ = casualty).        |
-| 3       | **Sniper Shot**         | A sniper attacks immediately from a hidden position (16", 1 die, ignores 1 cover). May target a squad leader.  |
-| 4       | **Civilians in the Open** | Distracts US squad. One squad within 6" must skip their next Shoot or Act action.                            |
-| 5       | **Ambush Fire**         | An enemy squad fires at the end of the US player’s turn (1 weapon only).                                       |
+| 3       | **Sniper Shot**         | A sniper attacks immediately from a hidden position (16", 1 die, ignores cover). May target a squad leader.    |
+| 4       | **Civilians**           | Distracts US squad. One squad within 6" must skip their next Shoot or Act action.                              |
+| 5       | **Ambush Fire**         | An enemy squad fires at the end of a US player’s turn (1 weapon per squad member only).                        |
 | 6       | **False Surrender**     | When a US squad performs an Act on a captured or wounded enemy, reveal the trap: the unit attacks with 2 dice. |
 | 7       | **Fog of War**          | US squad must reroll all successful hits this turn.                                                            |
-| 8       | **Decoy Position**      | Swap the position of any two hidden enemy units or tokens.                                                     |
+| 8       | **Decoys**              | Swap the position of any two hidden enemy units or tokens.                                                     |
 | 9       | **Close Assault**       | One enemy unit may move and attack in the same turn, ignoring usual penalties for running.                     |
-| 10      | **Reinforcements**      | Add 1 new model to any active enemy squad. Place adjacent to cover or concealment.                             |
-| 11      | **Hold the Line**       | One enemy unit ignores all casualties from this turn (once per game).                                          |
-| 12      | **Rally the Cell**      | Return one previously eliminated Local VC Cell to the map in a hidden position.                                |
+| 10      | **Reinforcements**      | Add 1 new model to any active enemy squad. Place adjacent to the squad.                                        |
+| 11      | **Hold the Line**       | One enemy unit ignores all casualties from this turn.                                                          |
+| 12      | **Rally the Cell**      | Return one previously eliminated enemy squad to the map in a hidden position.                                  |
 | 13      | **Xung phong!**         | All enemy units gain +1 to their next attack.                                                                  |
 
 ##### 2.3.4.2 Deck Size
