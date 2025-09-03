@@ -15,6 +15,7 @@ The Battle of Huế was one of the most intense and pivotal engagements of the V
 
 Unlike most jungle and rural battles in Vietnam, Huế was a rare case of full urban warfare. US Marines, South Vietnamese ARVN forces, and Army units engaged in house-to-house combat, often under sniper fire and with limited artillery support due to the city's historic significance. Fighting was fierce and personal buildings had to be cleared room by room.
 
+
 ## Civilian & Cultural Cost
 
 Thousands of civilians were caught in the crossfire or executed by occupying NVA forces. Historic temples, homes, and the ancient Citadel suffered massive damage. Over 100,000 civilians were displaced, and the city's infrastructure was devastated.
