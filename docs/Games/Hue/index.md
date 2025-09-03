@@ -13,7 +13,8 @@ The Battle of Huế was one of the most intense and pivotal engagements of the V
 
 ## Tactical Overview
 
-Unlike most jungle and rural battles in Vietnam, Huế was a rare case of full urban warfare. US Marines, South Vietnamese ARVN forces, and Army units engaged in house-to-house combat, often under sniper fire and with limited artillery support due to the city's historic significance. Fighting was fierce and personal—buildings had to be cleared room by room.
+Unlike most jungle and rural battles in Vietnam, Huế was a rare case of full urban warfare. US Marines, South Vietnamese ARVN forces, and Army units engaged in house-to-house combat, often under sniper fire and with limited artillery support due to the city's historic significance. Fighting was fierce and personal buildings had to be cleared room by room.
+
 
 ## Civilian & Cultural Cost
 
@@ -21,7 +22,11 @@ Thousands of civilians were caught in the crossfire or executed by occupying NVA
 
 ## Strategic Significance
 
-Though technically a military victory for the US and South Vietnam, the scale and ferocity of the fighting—especially during what was supposed to be a ceasefire—shocked the American public. The battle helped shift public opinion against the war and is considered a turning point in US involvement.
+Though technically a military victory for the US and South Vietnam, the scale and ferocity of the fighting especially during what was supposed to be a ceasefire shocked the American public. The battle helped shift public opinion against the war and is considered a turning point in US involvement.
+
+## Gaming
+
+This is not a battle that is particularly gamed very often in the Vietnam War genre. It is significantly different from the Jungles normally portrayed and seen for the period. It represents an interesting departure from regular Vietnam war settings.
 
 ## Links
 
