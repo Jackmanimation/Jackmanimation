@@ -25,7 +25,7 @@ Though technically a military victory for the US and South Vietnam, the scale an
 
 ## Gaming
 
-This is not a battle that is particularly gamed very often in the Vietnam War genre. It is significantly different from the Jungles normally portrayed and seen for the period. It represents an interesting departure from regular Vietnam war settings.
+This is not a battle that is particularly gamed very often in the Vietnam War genre. It is significantly different from the Jungles normally portrayed and seen for the period. It represents an interesting departure from regular Vietnam war settings. Our rules for playing are [here](https://jackmanimation.github.io/Jackmanimation/Games/Hue/rules.html).
 
 ## Links
 
