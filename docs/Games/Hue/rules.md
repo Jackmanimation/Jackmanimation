@@ -103,7 +103,7 @@ Example : Bob is shooting at a VC behind a low wall with an M16. He needs a 4+ t
 | .45 Pistol            | 6"             | 1    | Short range; used by squad leaders or in emergencies                                  |
 | Shotgun               | 6" (cone)      | 2    | Ignores cover bonus at close range; great for clearing rooms                          |
 | LAW (Light AT Weapon) | 10"            | 4    | One-use only; ignores cover; anti-fortification effect                                |
-| Frag Grenade          | 4" radius      | 2    | Thrown weapon; affects all models in radius; 1 per soldier                            |
+| Frag Grenade          | 2" radius      | 2    | Thrown weapon; affects all models in radius; 1 per soldier                            |
 
 #### 2.3.3 Actions
 
@@ -153,7 +153,7 @@ Cards are played at any time during the player’s turn (unless otherwise stated
 | **No:** | **Card Name**         | **Effect**                                                                                                                    |
 |---------|-----------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | 1       | **Covering Fire**     | Suppress enemy squad during your move – they may not shoot at you this turn.                                                  |
-| 2       | **Grenade Toss**      | Instantly throw a frag grenade without using the Act action (2 dice attack, 4" radius).                                       |
+| 2       | **Grenade Toss**      | Instantly throw a frag grenade without using the Act action (2 dice attack, 6" range, 2" radius).                             |
 | 3       | **Adrenaline Rush**   | Move + Shoot this turn even if you ran. No penalty.                                                                           |
 | 4       | **Free Action**       | Take a bonus action this turn. This can be move, shoot or act.                                                                |
 | 5       | **Flare Up**          | Reveal enemy squad in hiding or behind cover within 12".                                                                      |
